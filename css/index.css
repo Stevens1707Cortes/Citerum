@@ -1,0 +1,33 @@
+
+main{
+    color: aliceblue;
+    font-family: "Roboto Slab";
+}
+
+label{
+    text-align: center;
+}
+
+input{
+    text-align: center;
+}
+
+footer{
+    font-family: "Roboto Slab";
+}
+
+.contenedor{
+
+    border-radius: 2em;
+}
+
+#logo{
+    width: 150px;
+}
+
+.roboto-slab-citerium {
+  font-family: "Roboto Slab", serif;
+  font-optical-sizing: auto;
+  font-weight: 100;
+  font-style: normal;
+}
