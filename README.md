@@ -1,6 +1,6 @@
 # Sistema POS para el Centro Educativo SENA
 
-Este proyecto es un Sistema de Punto de Venta (POS, por sus siglas en inglés) diseñado y desarrollado como parte de un proyecto educativo para el centro educativo SENA. El sistema está creado utilizando HTML, CSS y JavaScript.
+Este proyecto es un Sistema de Punto de Venta (POS, por sus siglas en inglés) diseñado y desarrollado como parte de un proyecto educativo para el centro educativo SENA. El sistema está creado utilizando HTML, CSS y JavaScript, ademas de utilizar Tailwind CSS como framework para CSS.
 
 ## Funcionalidades
 
@@ -13,9 +13,9 @@ Este proyecto es un Sistema de Punto de Venta (POS, por sus siglas en inglés) d
 ## Instalación y Uso
 
 1. Clona este repositorio a tu máquina local utilizando el siguiente comando:
-
+```bash
 git clone git@github.com:Stevens1707Cortes/Citerum.git
-
+```
 2. Abre el archivo `index.html` en tu navegador web para iniciar el sistema POS.
 
 ## Autor
